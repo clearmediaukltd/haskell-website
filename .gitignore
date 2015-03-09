@@ -1,1 +1,6 @@
-dist
+dist/
+tags
+ID
+cabal.sandbox.config
+cabal-dev/
+.cabal-sandbox/
